@@ -4,6 +4,7 @@ public class Employee {
 	private int empid;
 	private String name;
 	private double salary;
+	private boolean isTaxApplicable;
 	
 	public int getEmpid() {
 		return empid;
