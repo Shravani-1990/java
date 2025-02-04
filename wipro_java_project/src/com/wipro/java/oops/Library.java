@@ -109,7 +109,7 @@ public class Library {
      
      // Polymorphism - Using parent reference to call child method
      book1.displayInfo();
-     System.out.println(); // For better readability
+     System.out.println();
      magazine1.displayInfo();
  }
 }
